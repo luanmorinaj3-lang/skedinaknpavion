@@ -1,0 +1,6 @@
+{
+  "name": "SKEDINAKNPAVION",
+  "description": "Mobile-first football match center, live scores, real 1X2 odds, match statistics, daily picks, and virtual credit prediction games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
